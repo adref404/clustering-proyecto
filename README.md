@@ -22,11 +22,11 @@ Aplicación web interactiva desarrollada con **Streamlit** y **Docker** que impl
 - Plotly
 - Docker & Docker Compose
 
-## 🚀 Inicio Rápido
+## Inicio Rápido
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/clustering-breast-cancer.git
+git clone https://github.com/adref404/clustering-proyecto.git
 cd clustering-breast-cancer
 
 # Ejecutar con Docker
@@ -34,6 +34,9 @@ docker-compose up --build
 
 # Abrir en el navegador
 http://localhost:8501
+
+# Detener el contenedor actual (solo si lo necesitas)
+docker-compose down
 ```
 
 ## Dataset
